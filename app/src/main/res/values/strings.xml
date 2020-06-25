@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Facebook</string>
+    <string name="what_s_your_name">What\'s your name ?</string>
+    <string name="first_name">First Name</string>
+    <string name="what_s_your_email_address">What\'s your Email Address ?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="or">OR</string>
+    <string name="log_in">Log in</string>
+    <string name="password">Password</string>
+    <string name="username_or_phone_number">Username or phone Number</string>
+    <string name="create_a_new_facebook_account">Create a new facebook account</string>
+
+</resources>
